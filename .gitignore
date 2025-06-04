@@ -1,0 +1,10 @@
+# data, models and logs
+pretrained/
+data/
+logs/
+
+# venv
+venv/
+
+# .DS_Store
+.DS_Store
